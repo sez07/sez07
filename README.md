@@ -11,7 +11,7 @@
 </a>
 
 
-<div style="padding: 20px 0px;"><img src="./Mayank Jindal (1).png" alt="Github Banner"></div>
+<div style="padding: 20px 0px;"><img src="./sezal linkedin.jpg" alt="Github Banner"></div>
 <p style="color:white;font-weight:500;font-family: 'Poppins', sans-serif;">
    I am a Junior Computer Science student. 
   <br>My interest in computers and how to develop softwares brought me to Chitkara University, where I am working on my BE in Computer Science & Engineering.
